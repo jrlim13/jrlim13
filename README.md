@@ -1,6 +1,6 @@
 <div align="center">
   <img src=https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif>
-  <strong>✨WELCOME✨</strong>
+  <h1>✨WELCOME✨</h1>
 </div>
 
 <!--
