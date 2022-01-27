@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]("https://tenor.com/view/raining-pixel-gamer-pc-gif-16993848")
 <!--
 **jrlim13/jrlim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
