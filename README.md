@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div>
+<p align="center">
   <img src=https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif>
-</div>
+</p>
 <!--
 **jrlim13/jrlim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
