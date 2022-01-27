@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-![alt text](https://c.tenor.com/h-vRtS8s5roAAAAC/sad-night.gif)
+<div>
+  ![alt text](https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif)
+</div>
 <!--
 **jrlim13/jrlim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
