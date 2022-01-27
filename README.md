@@ -1,7 +1,8 @@
-<p align="center">
+<div align="center">
   <img src=https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif>
-</p>
-<h2 align="center">WELCOME</h2>
+  <h2>WELCOME</h2>
+</div>
+
 <!--
 **jrlim13/jrlim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
