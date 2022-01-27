@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text]("https://tenor.com/view/raining-pixel-gamer-pc-gif-16993848")
+![alt text](https://tenor.com/view/raining-pixel-gamer-pc-gif-16993848)
 <!--
 **jrlim13/jrlim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
