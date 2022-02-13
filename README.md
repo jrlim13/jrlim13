@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tenor.com/view/computer-pixel-art-monitors-computer-set-up-blinking-cursor-gif-17153742">
-    <img src=https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif>
+    <img src=https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif width=249 height=142>
   </a>
   <h1>✨WELCOME✨</h1>
 </div>
